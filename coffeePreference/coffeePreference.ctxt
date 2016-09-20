@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=creamer\ sugar
+comment0.target=coffeePreference(int,\ int)
+comment1.params=
+comment1.target=void\ showPreference()
+comment1.text=\r\n\ Description\:\ prints\ out\ the\ number\ of\ creamers\ and\ sugars\ to\ user\ uses\r\n\ Input\:\ no\ input\r\n\ Output\:\ number\ of\ creamers\ and\ sugars\r\n\ Sample\:\ "Number\ of\ Creamers\:\ 1"\ "Number\ of\ Sugars\:\ 2"\ \r\n
+numComments=2
